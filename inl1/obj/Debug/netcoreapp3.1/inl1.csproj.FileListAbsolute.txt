@@ -1,0 +1,14 @@
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\bin\Debug\netcoreapp3.1\inl1.exe
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\bin\Debug\netcoreapp3.1\inl1.deps.json
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\bin\Debug\netcoreapp3.1\inl1.runtimeconfig.json
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\bin\Debug\netcoreapp3.1\inl1.runtimeconfig.dev.json
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\bin\Debug\netcoreapp3.1\inl1.dll
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\bin\Debug\netcoreapp3.1\inl1.pdb
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\obj\Debug\netcoreapp3.1\inl1.csproj.AssemblyReference.cache
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\obj\Debug\netcoreapp3.1\inl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\obj\Debug\netcoreapp3.1\inl1.AssemblyInfoInputs.cache
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\obj\Debug\netcoreapp3.1\inl1.AssemblyInfo.cs
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\obj\Debug\netcoreapp3.1\inl1.csproj.CoreCompileInputs.cache
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\obj\Debug\netcoreapp3.1\inl1.dll
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\obj\Debug\netcoreapp3.1\inl1.pdb
+C:\Users\rauax2001\Desktop\React\Rickard\Datalogi\inl1\inl1\obj\Debug\netcoreapp3.1\inl1.genruntimeconfig.cache
